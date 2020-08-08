@@ -1,1 +1,1 @@
-# algo-fantasy
+# AlgoFantasy
