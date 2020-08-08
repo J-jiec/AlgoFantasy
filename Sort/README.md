@@ -1,6 +1,9 @@
 # Sorting Algorithms
 
 ## Comparison Sorts
+The following table contains a complete list of sorting algorithms from [this Wikipedia page](https://en.wikipedia.org/wiki/Sorting_algorithm#cite_note-8): 
+
+
 | Algorithm             | Best      | Average           | Worst                | Memory   | Stable | Method                   |
 |-----------------------|-----------|-------------------|----------------------|----------|--------|--------------------------|
 | Quicksort             | $n\log n$ | $n\log n$         | $n^2$                | $\log n$ | No     | Partitioning             |
